@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿//master change
+=======
+﻿//development changes
+>>>>>>> dev-branch
 
 using System.Diagnostics;
 /***************************************************************/
